@@ -13,6 +13,7 @@
 
 <h2 align="center">✨Model Diagnosis</h2>
 
+
 ![image](https://github.com/GIGAParviz/pneumonia-chest-prediction-with-CNN/assets/129797437/2bc8aff6-356b-4ab4-a6bb-bf7988c05053)
 </p>
 
