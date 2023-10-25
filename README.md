@@ -17,4 +17,11 @@
 ![image](https://github.com/GIGAParviz/pneumonia-chest-prediction-with-CNN/assets/129797437/2bc8aff6-356b-4ab4-a6bb-bf7988c05053)
 </p>
 
+<p>
+  <h2>and I made a simple Interface for Model </h2>
+
+  ![Model Interface](https://github.com/GIGAParviz/Pneumonia-chest-prediction-with-CNN/assets/129797437/0118ba9a-b036-4a09-b393-1f60b907ecbb)
+</p>
+
 <h2>hope you like it <3 </h2>
+
